@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\bin\Debug\net5.0\Race.exe
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\bin\Debug\net5.0\Race.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\bin\Debug\net5.0\Race.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\bin\Debug\net5.0\Race.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\bin\Debug\net5.0\Race.dll
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\bin\Debug\net5.0\ref\Race.dll
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\bin\Debug\net5.0\Race.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\Race.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\Race.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\Race.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\Race.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\Race.dll
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\ref\Race.dll
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\Race.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week6\Race\obj\Debug\net5.0\Race.genruntimeconfig.cache
